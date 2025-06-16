@@ -47,7 +47,7 @@ regex
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Prateeksingh-moa/clip-zero-shot-inference.git
 cd clip-cifar10
 
 # Install dependencies
